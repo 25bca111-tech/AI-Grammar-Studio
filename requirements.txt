@@ -1,0 +1,4 @@
+# Python NLP engine — AI Grammar Studio
+nltk>=3.8
+textblob>=0.17
+pytest>=7.0

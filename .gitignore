@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+.venv/
+venv/
+
+# next.js
+.next/
+out/
+next-env.d.ts
+tsconfig.tsbuildinfo
+server.log
+dev.log
+
+# python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pyengine/nltk_data/
+
+# env & secrets
+.env
+.env*.local
+
+# vercel
+.vercel/
+
+# os / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
